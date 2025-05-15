@@ -11,6 +11,10 @@ Accuracy:
 
 After hyperparameter tuning, we achieved an accuracy of 85% on the test dataset, which is a significant improvement over the initial model. The final model can be used to predict customer churn with high accuracy.
 
+Deployment:
+
+The model is deployed using streamlit, a popular framework for building web applications in Python. The deployment includes a user-friendly interface where users can input customer data and get predictions on whether the customer is likely to churn or not.
+
 
 Tags:
 
@@ -27,5 +31,5 @@ Tags:
 Author:
 
   name: Owais Hamid Sofi
-  
+
   date: 2025-05-15
